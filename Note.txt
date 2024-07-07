@@ -1,0 +1,25 @@
+Sentiment_Analysis_Project
+
+1. clone project from GitHub:
+>git clone https://github.com/dinushasandamali/Sentiment_Analysis_Project.git
+
+2.install virtualenv library
+>pip install virtualenv
+
+3.create virtualenv
+>virtualenv env
+
+4.activate env
+>env\Scripts\activate
+
+5.install library:
+> pip install numpy pandas matplotlib jupyter
+
+6.open jupyter notebook
+>jupyter notebook 
+
+7. dataset from Kaggle
+go to setting and API create new API. joson file copy to artifacts.
+dataset link : dineshpiyasamara/sentiment-analysis-dataset
+
+
