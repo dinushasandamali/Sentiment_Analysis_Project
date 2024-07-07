@@ -22,4 +22,21 @@ Sentiment_Analysis_Project
 go to setting and API create new API. joson file copy to artifacts.
 dataset link : dineshpiyasamara/sentiment-analysis-dataset
 
+Push Model to Github
+
+8.check files push to GitHub
+> git status
+
+9.Add all files
+> git add . 
+
+10.Commit model
+> git commit -m "model train"
+
+11.Push Files
+> git push -u origin main
+
+
+
+
 
